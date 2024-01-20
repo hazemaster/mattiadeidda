@@ -1,4 +1,4 @@
-### Hi there, I'm Mattia Deidda 👋 💻
+# Hi there, I'm Mattia Deidda 👋 💻
 
 <div align="center">
 
