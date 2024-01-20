@@ -4,7 +4,7 @@
 
 [![](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/mattia-deidda-273a101b1/)
 [![](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/mattia.deidda.52)
-[![](https://img.shields.io/badge/-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/hazemaster)
+[![](https://img.shields.io/badge/-Github-informational?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/mattiadeidda91)
 
 </div>
 
